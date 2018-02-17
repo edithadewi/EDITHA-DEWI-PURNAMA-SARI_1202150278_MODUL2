@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RESTORAN ENAK SEDAP</string>
+    <string name="date">"Tanggal: "</string>
+
+    <string-array name="labels_array">
+
+        <item>Meja 1</item>
+
+        <item>Meja 2</item>
+
+        <item>Meja 3</item>
+
+        <item>Meja 4</item>
+
+        <item>Meja 5</item>
+
+        <item>Meja 6</item>
+
+
+    </string-array>
+
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="time">"Waktu: "</string>
+</resources>
